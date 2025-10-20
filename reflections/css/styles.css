@@ -1,0 +1,13 @@
+body {
+    background-color: coral;
+}
+
+h1, h2 {
+    color: gold;
+    text-align: center;
+}
+
+p {
+    font-family: calibri;
+    font-size:medium;
+}
